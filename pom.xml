@@ -6,7 +6,7 @@
     <artifactId>app-requests-mediated-ui</artifactId>
     <groupId>org.folio</groupId>
     <description>Application for the Mediated Requests installation (UI part)</description>
-    <version>1.1.0</version>
+    <version>1.2.0-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -94,6 +94,6 @@
         <url>https://https://github.com/folio-org/app-requests-mediated-ui</url>
         <connection>scm:git:git://github.com:folio-org/app-requests-mediated-ui.git</connection>
         <developerConnection>scm:git:git@github.com:folio-org/app-requests-mediated-ui.git</developerConnection>
-        <tag>v1.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 </project>
