@@ -8,10 +8,14 @@
       "name": "app-platform-complete",
       "version": "^2.1.0-SNAPSHOT"
     },
-	{
+    {
       "name": "app-requests-mediated",
       "version": "^2.1.0-SNAPSHOT"
-	}
+    },
+    {
+      "name": "app-requests-ecs",
+      "version": "^1.1.0-SNAPSHOT"
+    }
   ],
   "uiModules": [
     {
