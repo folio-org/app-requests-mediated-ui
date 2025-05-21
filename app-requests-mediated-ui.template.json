@@ -20,7 +20,7 @@
   "uiModules": [
     {
       "name": "folio_requests-mediated",
-      "version": "latest"
+      "version": "3.0.0"
     }
   ]
 }
