@@ -5,16 +5,12 @@
   "platform": "complete",
   "dependencies": [
     {
-      "name": "app-platform-complete",
-      "version": "^1.0.0-SNAPSHOT"
-    },
-	{
       "name": "app-requests-mediated",
-      "version": "^1.1.0-SNAPSHOT"
+      "version": "^1.2.0-SNAPSHOT"
 	},
     {
       "name": "app-requests-ecs",
-      "version": "^1.0.0-SNAPSHOT"
+      "version": "^1.2.0-SNAPSHOT"
     }
   ],
   "uiModules": [

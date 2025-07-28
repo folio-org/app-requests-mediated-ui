@@ -7,7 +7,7 @@
     <artifactId>app-requests-mediated-ui</artifactId>
     <groupId>org.folio</groupId>
     <description>Application for the Mediated Requests installation (UI part)</description>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.3.0-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
