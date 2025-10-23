@@ -1,0 +1,25 @@
+{
+  "name": "${project.name}",
+  "version": "${project.version}",
+  "description": "${project.description}",
+  "platform": "complete",
+  "dependencies": [
+    {
+      "name": "app-requests-mediated",
+      "version": "^1.2.0-SNAPSHOT",
+      "preRelease": "only"
+	},
+    {
+      "name": "app-requests-ecs",
+      "version": "^1.2.0-SNAPSHOT",
+      "preRelease": "only"
+    }
+  ],
+  "uiModules": [
+    {
+      "name": "folio_requests-mediated",
+      "version": "latest",
+      "preRelease": "only"
+    }
+  ]
+}
