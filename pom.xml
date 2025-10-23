@@ -6,7 +6,7 @@
     <artifactId>app-requests-mediated-ui</artifactId>
     <groupId>org.folio</groupId>
     <description>Application for the Mediated Requests installation (UI part)</description>
-    <version>1.2.0-SNAPSHOT</version>
+    <version>1.2.0</version>
 
     <properties>
         <project.name>app-requests-mediated-ui</project.name>
