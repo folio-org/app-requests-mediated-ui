@@ -1,6 +1,6 @@
 {
   "name": "app-requests-mediated-ui",
-  "version": "1.3.0-SNAPSHOT.100100000002416",
+  "version": "1.3.0-SNAPSHOT.100100000002441",
   "description": "Application for the Mediated Requests installation (UI part)",
   "platform": "complete",
   "dependencies": [
@@ -16,7 +16,7 @@
   "uiModules": [
     {
       "name": "folio_requests-mediated",
-      "version": "4.0.1099000000000162"
+      "version": "4.0.1099000000000166"
     }
   ],
   "modules": []
