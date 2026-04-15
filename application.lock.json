@@ -11,15 +11,15 @@
     "version": "3.0.2"
   }],
   "dependencies":   [
-        {
+    {
       "name": "app-platform-complete",
       "version": "^2.1.0"
     },
-        {
+    {
       "name": "app-requests-mediated",
       "version": "^2.0.0"
     },
-        {
+    {
       "name": "app-requests-ecs",
       "version": "^1.1.0"
     }
@@ -29,38 +29,38 @@
     "id": "folio_requests-mediated-3.0.2",
     "name": "Mediated requests",
     "requires":     [
-            {
+      {
         "id": "circulation-bff-requests",
         "version": "1.0"
       },
-            {
+      {
         "id": "requests-mediated",
         "version": "2.0"
       },
-            {
+      {
         "id": "requests-mediated-actions",
         "version": "1.0"
       },
-            {
+      {
         "id": "request-preference-storage",
         "version": "2.0"
       },
-            {
+      {
         "id": "circulation",
         "version": "14.4"
       },
-            {
+      {
         "id": "users",
         "version": "16.3"
       }
     ],
     "optional": [],
     "permissionSets":     [
-            {
+      {
         "permissionName": "module.requests-mediated.enabled",
         "displayName": "UI: Mediated requests module is enabled"
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.view",
         "displayName": "Mediated requests: View",
         "subPermissions":         [
@@ -84,7 +84,7 @@
         ],
         "visible": true
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.create",
         "displayName": "Mediated requests: Create",
         "subPermissions":         [
@@ -96,7 +96,7 @@
         ],
         "visible": false
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.requests-mediated.edit",
         "replaces": ["ui-requests-mediated.edit"],
         "displayName": "Mediated requests: Edit",
@@ -109,7 +109,7 @@
         ],
         "visible": false
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.requests-mediated.confirm.execute",
         "replaces": ["ui-requests-mediated.confirm"],
         "displayName": "Mediated requests: Confirm",
@@ -122,7 +122,7 @@
         ],
         "visible": false
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.requests-mediated.view-create-edit.execute",
         "replaces": ["ui-requests-mediated.view-create-edit"],
         "displayName": "Mediated requests: View, create, edit",
@@ -133,7 +133,7 @@
         ],
         "visible": true
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.requests-mediated.view-decline.execute",
         "replaces": ["ui-requests-mediated.view-decline"],
         "displayName": "Mediated requests: View, decline",
@@ -143,7 +143,7 @@
         ],
         "visible": true
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.requests-mediated.view-confirm.execute",
         "replaces": ["ui-requests-mediated.view-confirm"],
         "displayName": "Mediated requests: View, confirm",
@@ -153,7 +153,7 @@
         ],
         "visible": true
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.requests-mediated.confirm-item-arrival.execute",
         "replaces": ["ui-requests-mediated.confirm-item-arrival"],
         "displayName": "Mediated requests: Confirm item arrival",
@@ -163,7 +163,7 @@
         ],
         "visible": true
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.requests-mediated.send-item-in-transit.execute",
         "replaces": ["ui-requests-mediated.send-item-in-transit"],
         "displayName": "Mediated requests: Send item in transit",
@@ -174,7 +174,7 @@
         ],
         "visible": true
       },
-            {
+      {
         "permissionName": "ui-requests-mediated.all",
         "displayName": "Mediated requests: All permissions",
         "subPermissions":         [
