@@ -6,6 +6,7 @@
   "platform": "complete",
   "modules": [],
   "uiModules": [  {
+    "id": "folio_requests-mediated-3.0.2",
     "name": "folio_requests-mediated",
     "version": "3.0.2"
   }],
