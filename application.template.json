@@ -6,20 +6,20 @@
   "dependencies": [
     {
       "name": "app-requests-mediated",
-      "version": "^1.2.0-SNAPSHOT",
-      "preRelease": "only"
-	},
+      "version": "^VERSION_^1.2.0-SNAPSHOT",
+      "preRelease": "false"
+    },
     {
       "name": "app-requests-ecs",
-      "version": "^1.2.0-SNAPSHOT",
-      "preRelease": "only"
+      "version": "^VERSION_^1.2.0-SNAPSHOT",
+      "preRelease": "false"
     }
   ],
   "uiModules": [
     {
       "name": "folio_requests-mediated",
-      "version": "latest",
-      "preRelease": "only"
+      "version": "^VERSION_latest",
+      "preRelease": "false"
     }
   ]
 }
