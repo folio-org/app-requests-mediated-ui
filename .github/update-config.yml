@@ -38,6 +38,12 @@ branches:
       preRelease: "false"
       ruleset:
         enabled: true
+  - R1-2026:
+      enabled: true
+      need_pr: true
+      preRelease: "false"
+      ruleset:
+        enabled: true
 #  - R2-2024:
 #      enable: false
 #      need_pr: true
