@@ -6,19 +6,19 @@
   "dependencies": [
     {
       "name": "app-requests-mediated",
-      "version": "^VERSION_^1.2.0-SNAPSHOT",
+      "version": "~3.0.0",
       "preRelease": "false"
     },
     {
       "name": "app-requests-ecs",
-      "version": "^VERSION_^1.2.0-SNAPSHOT",
+      "version": "~2.0.0",
       "preRelease": "false"
     }
   ],
   "uiModules": [
     {
       "name": "folio_requests-mediated",
-      "version": "^VERSION_latest",
+      "version": "~4.0.0",
       "preRelease": "false"
     }
   ]
